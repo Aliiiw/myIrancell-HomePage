@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyIrancell</string>
+    <string name="home">خانه</string>
+    <string name="payment">صورتحساب</string>
+    <string name="buy">خرید بسته</string>
+    <string name="service">خدمات</string>
+    <string name="more">بیشتر</string>
+    <string name="all">کارکرد کل</string>
+    <string name="remain">موجودی کل جیب جت</string>
+    <string name="runcell">رانسل رو بازی کنید و جایزه بگیرید</string>
+    <string name="hot">داغ 🔥</string>
+    <string name="gold">طلایی 🥇</string>
+    <string name="money">مالی 💰</string>
+</resources>
